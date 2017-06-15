@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><site pack200="true">	<description>To install these features, point Eclipse at this site.</description>
+
+	<!-- xtext-antlr 1.0.1SR1 R201008261834 -->
+	<category-def label="xtext-antlr 1.0.1SR1 R201008261834" name="xtext-antlr 1.0.1SR1 R201008261834">
+		<description>xtext-antlr 1.0.1SR1 R201008261834: contains all features in this build.</description>
+	</category-def>
+	<feature id="de.itemis.xtext.antlr.feature.source" version="1.0.1.v201008261834" url="features/de.itemis.xtext.antlr.feature.source_1.0.1.v201008261834.jar" patch="false">
+		<category name="xtext-antlr 1.0.1SR1 R201008261834"/>
+	</feature>
+	<feature id="de.itemis.xtext.antlr.feature" version="1.0.1.v201008261834" url="features/de.itemis.xtext.antlr.feature_1.0.1.v201008261834.jar" patch="false">
+		<category name="xtext-antlr 1.0.1SR1 R201008261834"/>
+	</feature>
+	<feature id="de.itemis.xtext.antlr.sdk" version="1.0.1.v201008261834" url="features/de.itemis.xtext.antlr.sdk_1.0.1.v201008261834.jar" patch="false">
+		<category name="xtext-antlr 1.0.1SR1 R201008261834"/>
+	</feature>
+
+</site>
